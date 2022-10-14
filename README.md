@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things ;-)
 - 🌱 I’m currently learning Matlab/Simulink.
 - 💞️ I’m looking to collaborate on many others.
-- 📫 How to reach me: 'GitHub.com📯Schwamborn.de'
+- 📫 How to reach me: 'GitHub_com at Schwamborn.de'
 
 <!---
 SchwambornM/SchwambornM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
